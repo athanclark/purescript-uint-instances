@@ -14,7 +14,7 @@
   "dependencies": {
     "purescript-uint": "^5.1.0",
     "purescript-unordered-collections": "^1.6.0",
-    "purescript-argonaut": "^6.0.0",
+    "purescript-argonaut": "^7.0.0",
     "purescript-quickcheck": "^6.1.0"
   }
 }
